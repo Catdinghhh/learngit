@@ -1,2 +1,8 @@
 HELLO!
-MT are ! 
+<<<<<<< HEAD
+MT and ! 
+=======
+MT and !
+
+ 
+>>>>>>> featurel
