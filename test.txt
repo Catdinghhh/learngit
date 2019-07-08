@@ -1,4 +1,5 @@
 HELLO MT!
+nihao
 <<<<<<< HEAD
 MT and ! 
 =======
