@@ -1,8 +1,2 @@
 HELLO MT!
-<<<<<<< HEAD
-MT and ! 
-=======
-MT and !
-
- 
->>>>>>> featurel
+test git merge
