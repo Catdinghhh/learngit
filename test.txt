@@ -1,2 +1,2 @@
 HELLO MT!
-test git merge
+test
